@@ -1,0 +1,41 @@
+Identifier,Modell,Inbetriebnahmedatum,Kilometer,Standort,Status
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in use
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in service
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,out of order
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2023-5-1,291,Strada Ploiesti 19,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in use
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in service
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,out of order
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2023-5-1,291,Strada Ploiesti 19,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in use
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in service
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,out of order
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2023-5-1,291,Strada Ploiesti 19,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in use
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in service
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,out of order
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2023-5-1,291,Strada Ploiesti 19,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,reserved
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in use
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,in service
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,out of order
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2022-5-1,291,Strada Constanta 19-21,parked
+XYZ,Honda,2023-5-1,291,Strada Ploiesti 19,reserved
